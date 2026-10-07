@@ -1,0 +1,12 @@
+{
+ "ver": 1,
+ "books": [
+  {
+   "lv": "alpha",
+   "name": "字母书 A-Z",
+   "icanx": "razalpha.icanx",
+   "meta": "meta/alpha.json",
+   "mb": 34.5
+  }
+ ]
+}
